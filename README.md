@@ -38,7 +38,7 @@ An AI-powered assistant that manages Google Calendar through conversation
 ```python
 skills = {
 "languages": ["Python"],
-"ai_ml": ["LangChain", "LangGraph", "Ollama", "PyTorch", "NumPy"],
+"ai_ml": ["PyTorch", "NumPy", "LangChain", "LangGraph", "Ollama"],
 "apis": ["Google Calendar", "OAuth2"],
 "tools": ["uv", "Git", "VS Code"]
 }
