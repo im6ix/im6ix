@@ -38,7 +38,7 @@ An AI-powered assistant that manages Google Calendar through conversation
 ```python
 skills = {
 "languages": ["Python"],
-"ai_ml": ["PyTorch", "NumPy", "LangChain", "LangGraph", "Ollama"],
+"ai_ml": ["PyTorch","LangChain", "LangGraph", "Ollama"],
 "apis": ["Google Calendar", "OAuth2"],
 "tools": ["uv", "Git", "VS Code"]
 }
@@ -61,7 +61,6 @@ skills = {
 
 <div align="center">
 
-  Open to collaborating on AI/ML projects</b>
 
 <a href="https://github.com/im6ix"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github"/></a>
 
