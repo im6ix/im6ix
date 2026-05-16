@@ -21,7 +21,7 @@
 - 🔐 **JWT auth + argon2** — each clinic staff user scoped to their clinic
 - 🐳 **Dockerized, deployed on Railway** — live in production
 
-Started as a LangChain agent → rebuilt as a state machine for reliability → second client commissioned a variant → now becoming a multi-clinic SaaS.
+Started as a LangChain agent → rebuilt as a state machine for reliability → now becoming a multi-clinic SaaS.
 
 ---
 
