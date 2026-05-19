@@ -27,7 +27,6 @@ Started as a LangChain agent → rebuilt as a state machine for reliability → 
 
 | Project | What it is |
 |---|---|
-| [whatsapp-booking-bot](https://github.com/im6ix/whatsapp-booking-bot) | Earlier single-tenant version — documents the state machine architecture |
 | [calendar](https://github.com/im6ix/calendar) | NLP → Google Calendar events via LangChain + Ollama |
 | [downloads-agent](https://github.com/im6ix/downloads-agent) | Auto-organizes files using a local LLM + Watchdog |
 | [learning-pytorch](https://github.com/im6ix/learning-pytorch) | FashionMNIST classifier, bigram LM, transformer experiments (Karpathy Zero to Hero) |
