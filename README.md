@@ -8,12 +8,10 @@
 
 ---
 
-## 🚀 Main Project — [booking-bot](https://github.com/im6ix/booking-bot)
+## 🚀 Main Project — [booking-bot](https://github.com/im6ix/whatsapp-booking-bot)
 
 > Multi-tenant WhatsApp appointment booking SaaS for Egyptian medical clinics.
 > Patients book entirely through WhatsApp. Clinic staff manage everything through a web dashboard.
-
-**[[Live Demo]](https://booking-bot-production-24f2.up.railway.app/)** · username: `waleed` · password: `six`
 
 - 🤖 **State machine** — deterministic flow, no LLM at runtime, no hallucination risk
 - 💬 **Meta WhatsApp Business API** — native list/button UI
